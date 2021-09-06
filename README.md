@@ -56,5 +56,4 @@ Distributed under the MIT License. See LICENSE for more information.
 # Contact
 Enes SÖNMEZ - [@enesonmez](https://github.com/enesonmez) - enes@analyticahouse.com <br>
 
-Project Link: https://github.com/enesonmez/add-music-playlist-with-spotify-slack-api
-
+Project Link: https://github.com/analyticahouse/add-music-playlist-with-spotify-slack-api
