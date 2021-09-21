@@ -33,7 +33,7 @@ USER_NAME = 'spotify username'
    - sudo apt-get install python3-venv
    - python3 -m venv file-converter
    - cd file-converter
-   - **git clone https://github.com/enesonmez/File-Converter.git**
+   - **git clone https://github.com/analyticahouse/add-music-playlist-with-spotify-slack-api**
    - source file-converter/bin/activate
    - pip3 install -r requirements.txt
    - python3 main.py
@@ -42,7 +42,7 @@ USER_NAME = 'spotify username'
    - Go to the directory where you want to install the project and open the terminal.
    - python get-pip.py
    - pip install virtualenv
-   - **git clone https://github.com/enesonmez/File-Converter.git**
+   - **git clone https://github.com/analyticahouse/add-music-playlist-with-spotify-slack-api**
    - cd File-Converter
    - virtualenv -p python3 venv
    - venv\Scripts\activate
