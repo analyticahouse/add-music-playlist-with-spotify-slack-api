@@ -1,7 +1,7 @@
 # About The Project (Add Music to Playlist with Spotify - Slack Api)
 A module has been prepared for collecting spotify music urls sent to a channel you have determined in Slack and adding these songs to a playlist you want. 
-Existing music in the playlist is not added again. 
-Module only checks the slack messages sent yesterday for optimization. You can adapt this rule for yourself. <br>
+
+<p>Existing music in the playlist is not added again. Module only checks the slack messages sent today for optimization. You can adapt this rule for yourself. </p>
 (Slack'te belirlemiş olduğunuz bir kanala atılan spotify müzik url'lerini toplayarak istediğiniz bir playlist'e bu şarkıları ekleyen bir modül hazırlanmıştır.
 Playlist'te var olan bi müzik tekrardan eklenmez. Slack'teki kanalın içindeki mesajlar, o gün içinde gönderilen mesajları alır. Bu kuralı kendinize göre uyarlayabilirsiniz.)
 
