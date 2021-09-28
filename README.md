@@ -1,5 +1,7 @@
 # About The Project (Add Music to Playlist with Spotify - Slack Api)
-A module has been prepared that collects the spotify music urls sent to a channel you have determined in Slack and adds these songs to a playlist you want. Existing music in the playlist is not added again. Messages inside the channel in Slack receive messages sent during the current day. You can adapt this rule for yourself. <br>
+A module has been prepared for collecting spotify music urls sent to a channel you have determined in Slack and adding these songs to a playlist you want. 
+Existing music in the playlist is not added again. 
+Module only checks the slack messages sent yesterday for optimization. You can adapt this rule for yourself. <br>
 (Slack'te belirlemiş olduğunuz bir kanala atılan spotify müzik url'lerini toplayarak istediğiniz bir playlist'e bu şarkıları ekleyen bir modül hazırlanmıştır.
 Playlist'te var olan bi müzik tekrardan eklenmez. Slack'teki kanalın içindeki mesajlar, o gün içinde gönderilen mesajları alır. Bu kuralı kendinize göre uyarlayabilirsiniz.)
 
@@ -7,7 +9,7 @@ Playlist'te var olan bi müzik tekrardan eklenmez. Slack'teki kanalın içindeki
 ![](img/slack_channel_message.png)
 
 ## Built With
-You need to install the following python dependencies. If you do not want to install these dependencies, follow the installation step. (Aşağıdaki python bağımlılıklarını yüklemeniz gerekiyor. Eğer bağımlılıkları yüklemek istemiyorsanız, aşağıdaki kurulum adımlarını izleyin.)
+You need to install the following python3 dependencies. If you do not want to install these dependencies, follow the installation step. (Aşağıdaki python bağımlılıklarını yüklemeniz gerekiyor. Eğer bağımlılıkları yüklemek istemiyorsanız, aşağıdaki kurulum adımlarını izleyin.)
 * [spotipy](https://pypi.org/project/spotipy/)
 * [dotenv ](https://pypi.org/project/python-dotenv/)
 * [slackclient](https://pypi.org/project/python-dotenv/)
